@@ -15,7 +15,8 @@ I proposed a solution to use an automatic search suggestion since the old search
 [![Prototype Video](artifact/ShareITS.JPG)](https://youtu.be/ehtrV2w9rjI)
 
 Link To Current Tested Prototype : https://rendoru.com/project/php/shareits/
-Link To Idel Prototype Flow Video : https://youtu.be/ehtrV2w9rjI
+
+Link To Ideal Prototype Flow Video : https://youtu.be/ehtrV2w9rjI
 
 ---
 
