@@ -199,20 +199,15 @@ Every breakdown will be indicated by a red lighting bolt mark.
 
  ---
 
-## Part B: Prototyping (again)
-> Next, you will need to modify your prototype 
-> based on the resolutions you have suggested in `Feedback and Incidence Analysis`'s observations.
+## Part B: Prototyping
 
 ### Sketch
-> Draw a sketch of your prototype that is refined based according to the aforementioned observations on a paper.
-> Afterwards, scan the sketch or make the photograph of it and attach it on this report's section.
-> Please make sure the any texts on the sketch are readable.
+![New Sketch](artifact/Sketch.png)
 
-![Sketch of Refined Prototype](https://cdn2.hubspot.net/hub/725165/file-3421843765-png/blog-files/uxpin--300x211.png)
+The sketches can also be accessed here : https://projects.invisionapp.com/freehand/document/2GaUdovPZ
 
 ### Design Rationale
-> Please write a paragraph expressing what you have learned from the usability evaluation, 
-> and how it is reflected in your design.
+Given that the previous participant tries to use the old Search Field which is located at the center of the page, I decided to remove it instead. Because based on the first contextual inquiry the participant already tries to use it and found some breakdowns when using it. While based on the newest contextual inquiry, the participant didn't have any trouble finding the "Teknologi Bergerak" course using the new Search Navigation. Some participant didn't even have to type it completely which save some precious times.
 
 ### High-Fidelity Interactive-Prototype
 > Create a high-fidelity interactive-prototype based on the `Sketch` you have drawn.
