@@ -151,7 +151,7 @@ This transcript only contains the **important** part that i ask during the conte
 [06:45:04] Me : Sekarang bisa tunjukkan S1 yang berada pada tahun 2018?
 [07:01:28] Her : ** User typed "s1 218" and sees "Kursus tidak ditemukan" and start deleting until the suggestion system shown result again **
 [07:06:26] Her : ** typed "s1 2018", Shown me the result **
-[07:10:19] Me : Lanjut lagi yang S3 ?
+[07:10:19] Me : Lanjut lagi yang S3.
 [07:41:11] Her : ** typed "s3", Shown me the result **
 [07:46:03] Me : Sekarang cari kursus yang bernama "Teknologi Bergerak".
 [08:25:29] Her : ** Typed "teknologi" and clicked "Teknologi Bergerak" **
@@ -188,8 +188,8 @@ Every breakdown will be indicated by a red lighting bolt mark.
  - **Reason**: The keyword match partially with the course list
  - **Resolution**: -
  
- #### OBSERVATION 3
-![Result State](artifact/State-Final.JPG)
+ #### OBSERVATION 4
+![Course State](artifact/State-Final.JPG)
 
  - **Reference**: Participant 1 [05:03:23], Participant 2 [08:27:01]
  - **Feedback**: None
@@ -207,8 +207,7 @@ Every breakdown will be indicated by a red lighting bolt mark.
 The sketches can also be accessed here : https://projects.invisionapp.com/freehand/document/2GaUdovPZ
 
 ### Design Rationale
-Given that the previous participant tries to use the old Search Field which is located at the center of the page, I decided to remove it instead. Because based on the first contextual inquiry the participant already tries to use it and found some breakdowns when using it. While based on the newest contextual inquiry, the participant didn't have any trouble finding the "Teknologi Bergerak" course using the new Search Navigation. Some participant didn't even have to type it completely which save some precious times.
+Given that the previous participant tries to use the old Search Field which is located at the center of the page, I decided to remove it instead. Because based on the first contextual inquiry the participant already tries to use it and found some breakdowns when using it. While based on the newest contextual inquiry, the participant didn't have any trouble finding the "Teknologi Bergerak" course using the new Search Navigation. Some participants didn't even have to type it completely which save some precious times.
 
 ### High-Fidelity Interactive-Prototype
-> Create a high-fidelity interactive-prototype based on the `Sketch` you have drawn.
-> You can use any prototyping tools: InVision, Adobe XD, or even Microsoft PowerPoint.
+The Prototype can be accessed using Mobile Phone or Desktop Computer here : https://rendoru.com/project/php/shareits/revised/
